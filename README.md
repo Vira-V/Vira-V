@@ -4,29 +4,29 @@ I'm passionate about web development, with a focus on JavaScript, TypeScript, Re
 
 ## 🔧 Technologies & Tools
 
-- ![JavaScript](icons/javascript.png) 
-- ![TypeScript](icons/typescript.png) 
-- ![React](icons/react.png) 
-- ![HTML5](icons/html5.png) 
+- ![JavaScript](icons/javascript.png) JavaScript
+- ![TypeScript](icons/typescript.png) TypeScript
+- ![React](icons/react.png) React
+- ![HTML5](icons/html5.png) HTML5
 
-- ![CSS3](icons/css3.png)
-- ![Sass](icons/sass.png)
-- ![Node.js](icons/nodejs.png)
-- ![MySQL](icons/mysql.png)
+- ![CSS3](icons/css3.png) CSS3
+- ![Sass](icons/sass.png) (SCSS), BEM
+- ![Node.js](icons/nodejs.png) Node.js
+- ![MySQL](icons/mysql.png) MySQL
 
-- ![Bootstrap](icons/bootstrap.png)
-- ![Eslint](icons/eslint.png) 
-- ![Fetch](icons/fetch.png) ![REST API](icons/rest-api.png)
-- ![WordPress](icons/wordpress.png)  ![OpenCart](icons/opencart.png)
+- ![Bootstrap](icons/bootstrap.png) Bootstrap
+- ![Eslint](icons/eslint.png) Eslint
+- ![Fetch](icons/fetch.png) ![REST API](icons/rest-api.png) Fetch, REST API
+- ![WordPress](icons/wordpress.png) CMS WordPress, ![OpenCart](icons/opencart.png) CMS OpenCart
 
-- ![Jira](icons/jira.png)  ![ClickUp](icons/clickup.png) 
-- ![Photoshop](icons/photoshop.png) ![Figma](icons/figma.png) 
-- ![Git/Github](icons/github.png) 
-- ![VS Code](icons/vscode.png) 
+- ![Jira](icons/jira.png) Jira, ![ClickUp](icons/clickup.png) ClickUp
+- ![Photoshop](icons/photoshop.png) ![Figma](icons/figma.png) Photoshop, Figma
+- ![Git/Github](icons/github.png) Git/Github
+- ![VS Code](icons/vscode.png) VS Code
 
-- ![NPM](icons/npm.png) 
-- ![Webpack](icons/webpack.png) 
-- ![Agile](icons/agile.png) ![Scrum](icons/scrum.png) 
+- ![NPM](icons/npm.png) NPM
+- ![Webpack](icons/webpack.png) Webpack
+- ![Agile](icons/agile.png) ![Scrum](icons/scrum.png) Agile, Scrum
 
 
 ## 🌱 I’m currently learning
