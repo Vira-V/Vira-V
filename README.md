@@ -8,13 +8,13 @@ I'm passionate about web development, with a focus on JavaScript, TypeScript, Re
 
 ## 🚀 Projects
 
-- [**Landing Page for a Museum**](https://github.com/Vira-V/The-MET-landing-page))
+- [**Landing Page for a Museum**](https://github.com/Vira-V/The-MET-landing-page)
 
 - [**ToDo List**](https://github.com/Vira-V/todo-app)
 
-- [**Website for a Device Shop**]((https://github.com/orgs/pl-fe-may23-codecreators/repositories)
+- [**Website for a Device Shop**](https://github.com/orgs/pl-fe-may23-codecreators/repositories)
 
-- [**Landing Page for a Bakery Shop**]((https://github.com/Vira-V/Creative-bakery/tree/develop)
+- [**Landing Page for a Bakery Shop**](https://github.com/Vira-V/Creative-bakery/tree/develop)
 
 Feel free to explore the names, and click on each project name to check out the details!
 
