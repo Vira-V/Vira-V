@@ -30,8 +30,6 @@ I'm open to collaboration on projects related to educational, financial, web dev
 
 - **Email:** [vira.lyzohub@gmail.com](mailto:vira.lyzohub@gmail.com)
 - **LinkedIn:** [Vira Lyzohub](https://www.linkedin.com/in/vira-lyzohub/)
-- **Phone:** +48 452-992-804
-
 
 ## 😄 Fun Facts
 
