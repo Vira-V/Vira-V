@@ -4,29 +4,8 @@ I'm passionate about web development, with a focus on JavaScript, TypeScript, Re
 
 ## 🔧 Technologies & Tools
 
-- ![JavaScript](icons/javascript.png) JavaScript
-- ![TypeScript](icons/typescript.png) TypeScript
-- ![React](icons/react.png) React
-- ![HTML5](icons/html5.png) HTML5
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![React](https://img.icons8.com/plasticine/48/000000/react.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![Sass](https://img.icons8.com/color/48/000000/sass.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Eslint](https://img.icons8.com/color/48/000000/eslint.png) ![Fetch](https://img.icons8.com/color/48/000000/fetch-api.png) ![REST API](https://img.icons8.com/color/48/000000/api.png) ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png) ![OpenCart](https://img.icons8.com/material-rounded/48/000000/opencart.png) ![Jira](https://img.icons8.com/color/48/000000/jira.png) ![ClickUp](https://img.icons8.com/color/48/000000/clickup.png) ![Photoshop](https://img.icons8.com/fluent/48/000000/adobe-photoshop.png) ![Figma](https://img.icons8.com/color/48/000000/figma--v1.png) ![Git/Github](https://img.icons8.com/color/48/000000/github--v1.png) ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![NPM](https://img.icons8.com/color/48/000000/npm.png) ![Webpack](https://img.icons8.com/color/48/000000/webpack.png) ![Agile](https://img.icons8.com/color/48/000000/agile.png) ![Scrum](https://img.icons8.com/color/48/000000/scrum.png)
 
-- ![CSS3](icons/css3.png) CSS3
-- ![Sass](icons/sass.png) (SCSS), BEM
-- ![Node.js](icons/nodejs.png) Node.js
-- ![MySQL](icons/mysql.png) MySQL
-
-- ![Bootstrap](icons/bootstrap.png) Bootstrap
-- ![Eslint](icons/eslint.png) Eslint
-- ![Fetch](icons/fetch.png) ![REST API](icons/rest-api.png) Fetch, REST API
-- ![WordPress](icons/wordpress.png) CMS WordPress, ![OpenCart](icons/opencart.png) CMS OpenCart
-
-- ![Jira](icons/jira.png) Jira, ![ClickUp](icons/clickup.png) ClickUp
-- ![Photoshop](icons/photoshop.png) ![Figma](icons/figma.png) Photoshop, Figma
-- ![Git/Github](icons/github.png) Git/Github
-- ![VS Code](icons/vscode.png) VS Code
-
-- ![NPM](icons/npm.png) NPM
-- ![Webpack](icons/webpack.png) Webpack
-- ![Agile](icons/agile.png) ![Scrum](icons/scrum.png) Agile, Scrum
 
 
 ## 🌱 I’m currently learning
