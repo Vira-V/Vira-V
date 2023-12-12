@@ -8,21 +8,13 @@ I'm passionate about web development, with a focus on JavaScript, TypeScript, Re
 
 ## 🚀 Projects
 
-- [**Landing Page for a Museum**](https://vira-v.github.io/The-MET-landing-page/)
-  - Tech Stack: HTML5, SCSS, BEM
-  - Description: Developed a visually appealing and responsive landing page for a museum using HTML5 and SCSS, following the BEM methodology.
+- [**Landing Page for a Museum**](https://github.com/Vira-V/The-MET-landing-page))
 
-- [**ToDo List**](https://vira-v.github.io/todo-app/)
-  - Tech Stack: React, TypeScript
-  - Description: Implemented a feature-rich ToDo list application using React and TypeScript, focusing on a clean and organized codebase.
+- [**ToDo List**](https://github.com/Vira-V/todo-app)
 
-- [**Website for a Device Shop**](https://pl-fe-may23-codecreators.github.io/product-catalog/)
-  - Tech Stack: React, TypeScript, JavaScript, RESTful API, Sequelize, Postgres, SQL, Express, HTML5, SCSS
-  - Description: Managed frontend and backend development for an e-commerce website, integrating a RESTful API and a PostgreSQL database.
+- [**Website for a Device Shop**]((https://github.com/orgs/pl-fe-may23-codecreators/repositories)
 
-- [**Landing Page for a Bakery Shop**](https://vira-v.github.io/Creative-bakery/)
-  - Tech Stack: HTML5, SCSS, BEM
-  - Description: Created a visually appealing landing page for a bakery shop, emphasizing the use of HTML5 and SCSS with the BEM methodology.
+- [**Landing Page for a Bakery Shop**]((https://github.com/Vira-V/Creative-bakery/tree/develop)
 
 Feel free to explore the names, and click on each project name to check out the details!
 
