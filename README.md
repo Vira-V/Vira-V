@@ -4,25 +4,30 @@ I'm passionate about web development, with a focus on JavaScript, TypeScript, Re
 
 ## 🔧 Technologies & Tools
 
-- JavaScript
-- TypeScript
-- React
-- HTML5
-- CSS3
-- Sass (SCSS), BEM
-- Node.js
-- MySQL
-- Bootstrap
-- Eslint
-- Fetch, REST API
-- CMS WordPress, CMS OpenCart
-- Jira, ClickUp
-- Photoshop, Figma
-- Git/Github
-- VS Code
-- NPM
-- Webpack
-- Agile, Scrum
+- ![JavaScript](icons/javascript.png) 
+- ![TypeScript](icons/typescript.png) 
+- ![React](icons/react.png) 
+- ![HTML5](icons/html5.png) 
+
+- ![CSS3](icons/css3.png)
+- ![Sass](icons/sass.png)
+- ![Node.js](icons/nodejs.png)
+- ![MySQL](icons/mysql.png)
+
+- ![Bootstrap](icons/bootstrap.png)
+- ![Eslint](icons/eslint.png) 
+- ![Fetch](icons/fetch.png) ![REST API](icons/rest-api.png)
+- ![WordPress](icons/wordpress.png)  ![OpenCart](icons/opencart.png)
+
+- ![Jira](icons/jira.png)  ![ClickUp](icons/clickup.png) 
+- ![Photoshop](icons/photoshop.png) ![Figma](icons/figma.png) 
+- ![Git/Github](icons/github.png) 
+- ![VS Code](icons/vscode.png) 
+
+- ![NPM](icons/npm.png) 
+- ![Webpack](icons/webpack.png) 
+- ![Agile](icons/agile.png) ![Scrum](icons/scrum.png) 
+
 
 ## 🌱 I’m currently learning
 
