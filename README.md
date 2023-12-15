@@ -16,6 +16,8 @@ I'm passionate about web development, with a focus on JavaScript, TypeScript, Re
 
 - [**Landing Page for a Bakery Shop**](https://github.com/Vira-V/Creative-bakery/tree/develop)
 
+- [**Website Countries in the world**]((https://github.com/Vira-V/countries-in-the-world/tree/master)
+
 Feel free to explore the names, and click on each project name to check out the details!
 
 ## 🌱 I’m currently learning
