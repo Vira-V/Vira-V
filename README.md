@@ -6,7 +6,7 @@ I'm passionate about web development, with a focus on JavaScript, TypeScript, Re
 
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) ![TypeScript](https://img.icons8.com/color/48/000000/typescript.png) ![React](https://img.icons8.com/plasticine/48/000000/react.png) ![Redux](https://img.icons8.com/color/48/000000/redux.png) ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) ![CSS3](https://img.icons8.com/color/48/000000/css3.png) ![Sass](https://img.icons8.com/color/48/000000/sass.png) ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) ![MySQL](https://img.icons8.com/color/48/000000/mysql.png) ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) ![Eslint](https://img.icons8.com/color/48/000000/eslint.png) ![REST API](https://img.icons8.com/color/48/000000/api.png) ![WordPress](https://img.icons8.com/color/48/000000/wordpress.png) ![Jira](https://img.icons8.com/color/48/000000/jira.png) ![Photoshop](https://img.icons8.com/fluent/48/000000/adobe-photoshop.png) ![Figma](https://img.icons8.com/color/48/000000/figma--v1.png) ![Git/Github](https://img.icons8.com/color/48/000000/github--v1.png) ![VS Code](https://img.icons8.com/color/48/000000/visual-studio-code-2019.png) ![NPM](https://img.icons8.com/color/48/000000/npm.png) ![Webpack](https://img.icons8.com/color/48/000000/webpack.png)
 
-![GitHub repo size](https://img.shields.io/github/repo-size/Vira-V/)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Vira-V&layout=compact&theme=radical)
 
 ## 🚀 Projects
 
